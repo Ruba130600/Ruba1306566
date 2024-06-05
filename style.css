@@ -510,9 +510,8 @@ html{
     }
     #about .container{
         position: relative;
-        margin-top: 620px;
-        top:50%;
-
+        margin-top: 520px;
+        top: 50%;
     }
 
     img{
