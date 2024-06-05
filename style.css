@@ -511,6 +511,7 @@ html{
     #about .container{
         position: relative;
         margin-top: 620px;
+        top:50%;
 
     }
 
